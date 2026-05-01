@@ -17,7 +17,7 @@ This project analyzes retail customer shopping behavior from a 3.9K transactiona
 ### CODE AND RESOURCES:
 
 **Python Version:** 3.14 <br>
-**Packages:** Pandas <br>
+**Packages and Tools:** Pandas, Jupyter Notebook, PostgreSQL, pgAdmin 4, Google Docs, Google Slides <br>
 **Dataset:** [Retail Customer Trends Dataset](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv)
 
 ---
